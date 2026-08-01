@@ -55,7 +55,6 @@ The analysis uses the following primary tables:
 
 ![Database Schema](Images/Database Schema.png)
 
-
 5)SQL Skills Demonstrated
 
 Throughout this project, the following SQL concepts were applied:
