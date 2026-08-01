@@ -82,8 +82,8 @@ The project answers several practical business questions, including:
 5. How well is the company meeting promised delivery dates?
 6. How has monthly sales performance changed over time?
 7. Do late deliveries result in lower customer review scores?
-   
-https://github.com/Isfar123/Isfar123-SQL-Analytics-Project/blob/15721ce70e958a765b48ece1c80a0d6a3593fde5/Images/delivery_performance.png
+
+   https://github.com/Isfar123/Isfar123-SQL-Analytics-Project/blob/main/Images/delivery_performance.png?raw=true
 
 7) Key Insights
 
