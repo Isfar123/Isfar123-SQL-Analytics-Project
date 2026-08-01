@@ -84,6 +84,7 @@ The project answers several practical business questions, including:
 7. Do late deliveries result in lower customer review scores?
 
    ![delivery_performance](https://github.com/Isfar123/Isfar123-SQL-Analytics-Project/blob/main/Images/delivery_performance.png?raw=true)
+   ![monthly sales trend](https://github.com/Isfar123/Isfar123-SQL-Analytics-Project/blob/main/Images/monthly%20sales%20trend.png?raw=true)
 
 7) Key Insights
 
