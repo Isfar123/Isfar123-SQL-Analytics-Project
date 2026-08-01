@@ -53,7 +53,8 @@ The analysis uses the following primary tables:
 
 ## Database Schema
 
-![Database Schema](Images/Database Schema.png)
+![Database Schema](https://github.com/Isfar123/Isfar123-SQL-Analytics-Project/blob/main/Images/Database%20Schema.png?raw=true)
+
 
 5)SQL Skills Demonstrated
 
